@@ -1,0 +1,6 @@
+{
+  "keywords": ["def","class","return","if","else","elif","for","while"],
+  "types": ["int","str","float","bool","list","dict","set"],
+  "comments": {"line": "#", "blockStart": null, "blockEnd": null},
+  "strings": "\""
+}
