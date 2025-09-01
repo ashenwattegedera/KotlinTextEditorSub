@@ -681,7 +681,7 @@ fun TextEditorScreen(draftFileName: String = "draft.txt") {
     }
 }
 
-// --------------------------- Helpers ---------------------------
+// --------------------------- Helpers ------------------------------
 private fun guessNameFromUri(uri: Uri): String? = uri.lastPathSegment?.substringAfterLast('/')
 
 private fun saveToUri(context: Context, uri: Uri, text: String) {
